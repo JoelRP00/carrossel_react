@@ -56,8 +56,8 @@ return(
 
     </div>
     <div className={styles.buttons}>
-        <button onClick={handleOnClickLeft}><img src="/imgs/voltar.png" alt="voltar" /></button>
-        <button  onClick={handleOnClickRight}><img src="/imgs/avancar.png" alt="avancar" /></button>
+        <button onClick={handleOnClickLeft}><img src="./imgs/voltar.png" alt="voltar" /></button>
+        <button  onClick={handleOnClickRight}><img src="./imgs/avancar.png" alt="avancar" /></button>
     </div>
     </>
 )
