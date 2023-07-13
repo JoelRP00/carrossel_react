@@ -20,7 +20,7 @@ function App() {
         <Route path='/Carrossel' element={<Carrossel/>}/>
         <Route exact path='/' element={<Home/>}/>
         <Route  path='/Home' element={<Home/>}/>
-        <Route path='/carrossel_react' element={<Home/>}/>
+        <Route path='/carrossel_react/' element={<Home/>}/>
         </Routes>
         
       
