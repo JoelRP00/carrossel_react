@@ -1,0 +1,33 @@
+.homeContainer{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 2em;
+    
+}
+.welcome{
+    font-size: 40px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 60px;
+}
+
+.infoHome{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+    text-align-last: center;
+    flex-wrap: wrap;
+    font-size: 20px;
+   
+    
+}
+.infoHome p{
+    margin-bottom: 60px;
+}
+.goToIcons{
+    font-size: 60px;
+}

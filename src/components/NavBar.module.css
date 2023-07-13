@@ -1,0 +1,40 @@
+.navBar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: linear-gradient(black, gray);
+    padding: 1em;
+
+}
+.navBar img{
+    width: 100px;
+    margin-left: 20px;
+    transition: 0.7s;
+}
+.navBar img:hover{
+    transform: scale(1.15);
+}
+.navBar ul{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    list-style: none;
+    align-items: center;
+}
+.navBar ul li{
+    font-size: 30px;
+    
+    margin-right: 2em;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.semDecoration{
+    text-decoration: none;
+    color: #fff;
+    transition: 0.8s;
+}
+.semDecoration:hover{
+    transform: rotate(360deg);
+}

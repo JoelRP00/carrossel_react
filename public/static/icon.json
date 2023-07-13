@@ -1,0 +1,124 @@
+[
+{
+    "id": "1",
+    "name": "boruto",
+    "oldPrice":  20.00,
+    "price": 15.00,
+    "image":  "/imgs/boruto.png"
+},
+{
+    "id": "2",
+    "name": "hinata",
+    "oldPrice":  20.00,
+    "price": 15.00,
+    "image":  "/imgs/hinata.png"
+},
+{
+    "id": "3",
+    "name": "itachi",
+    "oldPrice":  20.00,
+    "price": 15.00,
+    "image":  "/imgs/itachi.png"
+},
+{
+    "id": "4",
+    "name": "kakashi",
+    "oldPrice":  20.00,
+    "price": 15.00,
+    "image":  "/imgs/kakashi.png"
+},
+{
+    "id": "5",
+    "name": "tanjiro",
+    "oldPrice":  20.00,
+    "price": 15.00,
+    "image":  "/imgs/tanjiro.png"
+},
+{
+    "id": "6",
+    "name": "tsunade",
+    "oldPrice":  20.00,
+    "price": 15.00,
+    "image":  "/imgs/tsunade.png"
+},
+{
+    "id": "7",
+    "name": "bakugo",
+    "oldPrice":  20.00,
+    "price": 15.00,
+    "image":  "/imgs/bakugo.png"
+},
+{
+    "id": "8",
+    "name": "crunch",
+    "oldPrice":  20.00,
+    "price": 15.00,
+    "image":  "/imgs/crunch.png"
+},
+{
+    "id": "9",
+    "name": "dbzlegends",
+    "oldPrice":  20.00,
+    "price": 15.00,
+    "image":  "/imgs/dbzlegends.png"
+},
+{
+    "id": "10",
+    "name": "deku",
+    "oldPrice":  20.00,
+    "price": 15.00,
+    "image":  "/imgs/deku.png"
+},
+{
+    "id": "11",
+    "name": "gaara",
+    "oldPrice":  20.00,
+    "price": 15.00,
+    "image":  "/imgs/gaara.png"
+},
+{
+    "id": "12",
+    "name": "kuromi",
+    "oldPrice":  20.00,
+    "price": 15.00,
+    "image":  "/imgs/kuromi.png"
+},
+{
+    "id": "13",
+    "name": "saitama",
+    "oldPrice":  20.00,
+    "price": 15.00,
+    "image":  "/imgs/saitama.png"
+},
+{
+    "id": "14",
+    "name": "shoto",
+    "oldPrice":  20.00,
+    "price": 15.00,
+    "image":  "/imgs/shoto.png"
+},
+{
+    "id": "15",
+    "name": "shoyo",
+    "oldPrice":  20.00,
+    "price": 15.00,
+    "image":  "/imgs/shoyo.png"
+},
+{
+    "id": "16",
+    "name": "signNaruto",
+    "oldPrice":  20.00,
+    "price": 15.00,
+    "image":  "/imgs/signNaruto.png"
+},
+{
+    "id": "17",
+    "name": "vegeta",
+    "oldPrice":  20.00,
+    "price": 15.00,
+    "image":  "/imgs/vegeta.png"
+}
+
+
+
+]
